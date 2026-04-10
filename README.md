@@ -1,0 +1,1 @@
+# global-renovate-configs

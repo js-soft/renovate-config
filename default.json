@@ -8,8 +8,7 @@
     ":automergePr",
     ":automergeRequireAllStatusChecks",
     ":automergeDigest",
-    ":automergeMinor",
-    ":separateMultipleMajorReleases"
+    ":automergeMinor"
   ],
   "labels": [
     "dependencies"

@@ -6,7 +6,6 @@
     "schedule:earlyMondays",
     "group:allNonMajor",
     ":automergePr",
-    ":automergeRequireAllStatusChecks",
     ":automergeDigest",
     ":automergeMinor"
   ],

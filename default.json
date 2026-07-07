@@ -10,8 +10,6 @@
     ":automergePatch",
     ":automergeMinor"
   ],
-  "labels": [
-    "dependencies"
-  ],
+  "labels": ["dependencies"],
   "semanticCommitType": "chore"
 }

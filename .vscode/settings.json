@@ -51,6 +51,5 @@
   "editor.codeActionsOnSave": {
     "source.organizeImports": "always"
   },
-  "files.eol": "\n",
-  "typescript.tsdk": "node_modules/typescript/lib"
+  "files.eol": "\n"
 }

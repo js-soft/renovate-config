@@ -11,5 +11,12 @@
     ":automergeMinor"
   ],
   "labels": ["dependencies"],
-  "semanticCommitType": "chore"
+  "semanticCommitType": "chore",
+  "packageRules": [
+    {
+      "matchManagers": ["github-actions"],
+      "matchPackageNames": ["js-soft/github-actions/.github/workflows/release-dependency-updates.yml"],
+      "pinDigestsss": false
+    }
+  ]
 }

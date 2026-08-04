@@ -17,7 +17,7 @@
     {
       "matchManagers": ["github-actions"],
       "matchPackageNames": ["js-soft/github-actions/.github/workflows/release-dependency-updates.yml"],
-      "pinDigestsss": false
+      "pinDigests": false
     }
   ]
 }

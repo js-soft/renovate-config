@@ -8,10 +8,10 @@
     ":automergePr",
     ":automergeDigest",
     ":automergePatch",
-    ":automergeMinor"
+    ":automergeMinor",
+    ":semanticCommitTypeAll(chore)"
   ],
   "labels": ["dependencies"],
-  "semanticCommitType": "chore",
   "prHourlyLimit": 10,
   "packageRules": [
     {

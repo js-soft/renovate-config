@@ -12,6 +12,7 @@
   ],
   "labels": ["dependencies"],
   "semanticCommitType": "chore",
+  "prHourlyLimit": 10,
   "packageRules": [
     {
       "matchManagers": ["github-actions"],

@@ -1,9 +1,9 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "description": "Default configuration for all repositories",
+  "schedule": ["* 0-6 * * 3"],
   "extends": [
     "config:best-practices",
-    "schedule:earlyMondays",
     "group:allNonMajor",
     ":automergePr",
     ":automergeDigest",

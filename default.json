@@ -9,7 +9,7 @@
     ":automergeDigest",
     ":automergePatch",
     ":automergeMinor",
-    ":semanticCommitTypeAll(chore)"
+    ":semanticCommitsDisabled"
   ],
   "labels": ["dependencies"],
   "prHourlyLimit": 10,

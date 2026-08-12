@@ -16,7 +16,7 @@
   "packageRules": [
     {
       "matchManagers": ["github-actions"],
-      "matchPackageNames": ["js-soft/github-actions/**"],
+      "matchPackageNames": ["js-soft/github-actions"],
       "pinDigests": false
     }
   ]

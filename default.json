@@ -2,6 +2,7 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "description": "Default configuration for all repositories",
   "schedule": ["* 0-6 * * 3"],
+  "ignoreReviewers": ["renovate-approve"],
   "extends": [
     "config:best-practices",
     "group:allNonMajor",
